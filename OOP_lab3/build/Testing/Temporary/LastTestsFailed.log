@@ -1,8 +1,0 @@
-13:ArrayTest.WithFigures
-24:TrapezoidTest.ConstructorAndGetters
-25:TrapezoidTest.Area
-26:TrapezoidTest.Center
-27:TrapezoidTest.CopyConstructor
-28:TrapezoidTest.MoveConstructor
-29:TrapezoidTest.OperatorDouble
-30:TrapezoidTest.Clone

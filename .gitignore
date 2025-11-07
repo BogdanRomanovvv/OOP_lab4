@@ -1,0 +1,11 @@
+# Build directories
+build/
+OOP_lab3/build/
+
+# VS Code settings
+.vscode/
+OOP_lab3/.vscode/
+
+# DevContainer
+.devcontainer/
+OOP_lab3/.devcontainer/
