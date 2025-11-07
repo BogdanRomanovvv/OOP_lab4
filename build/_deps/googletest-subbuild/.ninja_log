@@ -1,0 +1,21 @@
+# ninja log v7
+1	49	7842307433076555	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	9392b58323a5d43f
+1	49	7842307433076555	D:/OOP_lab_4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	9392b58323a5d43f
+50	9505	7842307527556523	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	dad64455e735131d
+50	9505	7842307527556523	D:/OOP_lab_4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	dad64455e735131d
+9505	9638	7842307527716079	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	eb74f92f122d627
+9505	9638	7842307527716079	D:/OOP_lab_4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	eb74f92f122d627
+9638	9690	7842307529419400	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	f2dbcfa16ba5ffdb
+9638	9690	7842307529419400	D:/OOP_lab_4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	f2dbcfa16ba5ffdb
+9690	9743	7842307530010959	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	6938e74a010ea8f6
+9690	9743	7842307530010959	D:/OOP_lab_4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	6938e74a010ea8f6
+9743	9795	7842307530550665	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	e77c0026682d13a1
+9743	9795	7842307530550665	D:/OOP_lab_4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	e77c0026682d13a1
+9795	9848	7842307530970674	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	bcd75983e4e5ee65
+9795	9848	7842307530970674	D:/OOP_lab_4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	bcd75983e4e5ee65
+9848	9901	7842307531600244	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	52786e46de88041a
+9848	9901	7842307531600244	D:/OOP_lab_4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	52786e46de88041a
+9901	9979	7842307532379120	CMakeFiles/googletest-populate-complete	ab10d1cf51cceb4b
+9901	9979	7842307532379120	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	ab10d1cf51cceb4b
+9901	9979	7842307532379120	D:/OOP_lab_4/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	ab10d1cf51cceb4b
+9901	9979	7842307532379120	D:/OOP_lab_4/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	ab10d1cf51cceb4b

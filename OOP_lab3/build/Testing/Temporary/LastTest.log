@@ -1,0 +1,1083 @@
+Start testing: Nov 07 19:11 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/40 Testing: ArrayTest.DefaultConstructor
+1/40 Test: ArrayTest.DefaultConstructor
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=ArrayTest.DefaultConstructor" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"ArrayTest.DefaultConstructor" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArrayTest.DefaultConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTest
+[ RUN      ] ArrayTest.DefaultConstructor
+[       OK ] ArrayTest.DefaultConstructor (0 ms)
+[----------] 1 test from ArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTest.DefaultConstructor" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"ArrayTest.DefaultConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/40 Testing: ArrayTest.AddElement
+2/40 Test: ArrayTest.AddElement
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=ArrayTest.AddElement" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"ArrayTest.AddElement" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArrayTest.AddElement
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTest
+[ RUN      ] ArrayTest.AddElement
+[       OK ] ArrayTest.AddElement (0 ms)
+[----------] 1 test from ArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTest.AddElement" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"ArrayTest.AddElement" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/40 Testing: ArrayTest.AddMultipleElements
+3/40 Test: ArrayTest.AddMultipleElements
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=ArrayTest.AddMultipleElements" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"ArrayTest.AddMultipleElements" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArrayTest.AddMultipleElements
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTest
+[ RUN      ] ArrayTest.AddMultipleElements
+[       OK ] ArrayTest.AddMultipleElements (0 ms)
+[----------] 1 test from ArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTest.AddMultipleElements" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"ArrayTest.AddMultipleElements" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/40 Testing: ArrayTest.RemoveElement
+4/40 Test: ArrayTest.RemoveElement
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=ArrayTest.RemoveElement" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"ArrayTest.RemoveElement" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArrayTest.RemoveElement
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTest
+[ RUN      ] ArrayTest.RemoveElement
+[       OK ] ArrayTest.RemoveElement (0 ms)
+[----------] 1 test from ArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTest.RemoveElement" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"ArrayTest.RemoveElement" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/40 Testing: ArrayTest.RemoveInvalidIndex
+5/40 Test: ArrayTest.RemoveInvalidIndex
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=ArrayTest.RemoveInvalidIndex" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"ArrayTest.RemoveInvalidIndex" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArrayTest.RemoveInvalidIndex
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTest
+[ RUN      ] ArrayTest.RemoveInvalidIndex
+[       OK ] ArrayTest.RemoveInvalidIndex (0 ms)
+[----------] 1 test from ArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTest.RemoveInvalidIndex" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"ArrayTest.RemoveInvalidIndex" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/40 Testing: ArrayTest.GetElement
+6/40 Test: ArrayTest.GetElement
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=ArrayTest.GetElement" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"ArrayTest.GetElement" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArrayTest.GetElement
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTest
+[ RUN      ] ArrayTest.GetElement
+[       OK ] ArrayTest.GetElement (0 ms)
+[----------] 1 test from ArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTest.GetElement" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"ArrayTest.GetElement" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/40 Testing: ArrayTest.GetInvalidIndex
+7/40 Test: ArrayTest.GetInvalidIndex
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=ArrayTest.GetInvalidIndex" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"ArrayTest.GetInvalidIndex" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArrayTest.GetInvalidIndex
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTest
+[ RUN      ] ArrayTest.GetInvalidIndex
+[       OK ] ArrayTest.GetInvalidIndex (0 ms)
+[----------] 1 test from ArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTest.GetInvalidIndex" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"ArrayTest.GetInvalidIndex" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/40 Testing: ArrayTest.IndexOperator
+8/40 Test: ArrayTest.IndexOperator
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=ArrayTest.IndexOperator" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"ArrayTest.IndexOperator" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArrayTest.IndexOperator
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTest
+[ RUN      ] ArrayTest.IndexOperator
+[       OK ] ArrayTest.IndexOperator (0 ms)
+[----------] 1 test from ArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTest.IndexOperator" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"ArrayTest.IndexOperator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/40 Testing: ArrayTest.CopyConstructor
+9/40 Test: ArrayTest.CopyConstructor
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=ArrayTest.CopyConstructor" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"ArrayTest.CopyConstructor" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArrayTest.CopyConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTest
+[ RUN      ] ArrayTest.CopyConstructor
+[       OK ] ArrayTest.CopyConstructor (0 ms)
+[----------] 1 test from ArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTest.CopyConstructor" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"ArrayTest.CopyConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/40 Testing: ArrayTest.MoveConstructor
+10/40 Test: ArrayTest.MoveConstructor
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=ArrayTest.MoveConstructor" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"ArrayTest.MoveConstructor" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArrayTest.MoveConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTest
+[ RUN      ] ArrayTest.MoveConstructor
+[       OK ] ArrayTest.MoveConstructor (0 ms)
+[----------] 1 test from ArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTest.MoveConstructor" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"ArrayTest.MoveConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/40 Testing: ArrayTest.CopyAssignment
+11/40 Test: ArrayTest.CopyAssignment
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=ArrayTest.CopyAssignment" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"ArrayTest.CopyAssignment" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArrayTest.CopyAssignment
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTest
+[ RUN      ] ArrayTest.CopyAssignment
+[       OK ] ArrayTest.CopyAssignment (0 ms)
+[----------] 1 test from ArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTest.CopyAssignment" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"ArrayTest.CopyAssignment" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/40 Testing: ArrayTest.MoveAssignment
+12/40 Test: ArrayTest.MoveAssignment
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=ArrayTest.MoveAssignment" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"ArrayTest.MoveAssignment" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArrayTest.MoveAssignment
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTest
+[ RUN      ] ArrayTest.MoveAssignment
+[       OK ] ArrayTest.MoveAssignment (0 ms)
+[----------] 1 test from ArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTest.MoveAssignment" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"ArrayTest.MoveAssignment" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/40 Testing: ArrayTest.WithFigures
+13/40 Test: ArrayTest.WithFigures
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=ArrayTest.WithFigures" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"ArrayTest.WithFigures" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArrayTest.WithFigures
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTest
+[ RUN      ] ArrayTest.WithFigures
+[       OK ] ArrayTest.WithFigures (0 ms)
+[----------] 1 test from ArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTest.WithFigures" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"ArrayTest.WithFigures" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/40 Testing: ArrayTest.WithRectangles
+14/40 Test: ArrayTest.WithRectangles
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=ArrayTest.WithRectangles" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"ArrayTest.WithRectangles" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArrayTest.WithRectangles
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTest
+[ RUN      ] ArrayTest.WithRectangles
+[       OK ] ArrayTest.WithRectangles (0 ms)
+[----------] 1 test from ArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTest.WithRectangles" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"ArrayTest.WithRectangles" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/40 Testing: RhombusTest.ConstructorAndGetters
+15/40 Test: RhombusTest.ConstructorAndGetters
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=RhombusTest.ConstructorAndGetters" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"RhombusTest.ConstructorAndGetters" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RhombusTest.ConstructorAndGetters
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RhombusTest
+[ RUN      ] RhombusTest.ConstructorAndGetters
+[       OK ] RhombusTest.ConstructorAndGetters (0 ms)
+[----------] 1 test from RhombusTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RhombusTest.ConstructorAndGetters" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"RhombusTest.ConstructorAndGetters" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/40 Testing: RhombusTest.Area
+16/40 Test: RhombusTest.Area
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=RhombusTest.Area" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"RhombusTest.Area" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RhombusTest.Area
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RhombusTest
+[ RUN      ] RhombusTest.Area
+[       OK ] RhombusTest.Area (0 ms)
+[----------] 1 test from RhombusTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RhombusTest.Area" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"RhombusTest.Area" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/40 Testing: RhombusTest.Center
+17/40 Test: RhombusTest.Center
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=RhombusTest.Center" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"RhombusTest.Center" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RhombusTest.Center
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RhombusTest
+[ RUN      ] RhombusTest.Center
+[       OK ] RhombusTest.Center (0 ms)
+[----------] 1 test from RhombusTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RhombusTest.Center" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"RhombusTest.Center" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/40 Testing: RhombusTest.CopyConstructor
+18/40 Test: RhombusTest.CopyConstructor
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=RhombusTest.CopyConstructor" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"RhombusTest.CopyConstructor" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RhombusTest.CopyConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RhombusTest
+[ RUN      ] RhombusTest.CopyConstructor
+[       OK ] RhombusTest.CopyConstructor (0 ms)
+[----------] 1 test from RhombusTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RhombusTest.CopyConstructor" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"RhombusTest.CopyConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/40 Testing: RhombusTest.MoveConstructor
+19/40 Test: RhombusTest.MoveConstructor
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=RhombusTest.MoveConstructor" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"RhombusTest.MoveConstructor" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RhombusTest.MoveConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RhombusTest
+[ RUN      ] RhombusTest.MoveConstructor
+[       OK ] RhombusTest.MoveConstructor (0 ms)
+[----------] 1 test from RhombusTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RhombusTest.MoveConstructor" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"RhombusTest.MoveConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/40 Testing: RhombusTest.OperatorDouble
+20/40 Test: RhombusTest.OperatorDouble
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=RhombusTest.OperatorDouble" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"RhombusTest.OperatorDouble" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RhombusTest.OperatorDouble
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RhombusTest
+[ RUN      ] RhombusTest.OperatorDouble
+[       OK ] RhombusTest.OperatorDouble (0 ms)
+[----------] 1 test from RhombusTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RhombusTest.OperatorDouble" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"RhombusTest.OperatorDouble" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/40 Testing: RhombusTest.Clone
+21/40 Test: RhombusTest.Clone
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=RhombusTest.Clone" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"RhombusTest.Clone" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RhombusTest.Clone
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RhombusTest
+[ RUN      ] RhombusTest.Clone
+[       OK ] RhombusTest.Clone (0 ms)
+[----------] 1 test from RhombusTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RhombusTest.Clone" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"RhombusTest.Clone" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/40 Testing: RhombusTest.IntegerCoordinates
+22/40 Test: RhombusTest.IntegerCoordinates
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=RhombusTest.IntegerCoordinates" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"RhombusTest.IntegerCoordinates" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RhombusTest.IntegerCoordinates
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RhombusTest
+[ RUN      ] RhombusTest.IntegerCoordinates
+[       OK ] RhombusTest.IntegerCoordinates (0 ms)
+[----------] 1 test from RhombusTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RhombusTest.IntegerCoordinates" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"RhombusTest.IntegerCoordinates" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/40 Testing: RhombusTest.InvalidRhombus
+23/40 Test: RhombusTest.InvalidRhombus
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=RhombusTest.InvalidRhombus" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"RhombusTest.InvalidRhombus" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RhombusTest.InvalidRhombus
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RhombusTest
+[ RUN      ] RhombusTest.InvalidRhombus
+[       OK ] RhombusTest.InvalidRhombus (0 ms)
+[----------] 1 test from RhombusTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RhombusTest.InvalidRhombus" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"RhombusTest.InvalidRhombus" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/40 Testing: TrapezoidTest.ConstructorAndGetters
+24/40 Test: TrapezoidTest.ConstructorAndGetters
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=TrapezoidTest.ConstructorAndGetters" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"TrapezoidTest.ConstructorAndGetters" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TrapezoidTest.ConstructorAndGetters
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TrapezoidTest
+[ RUN      ] TrapezoidTest.ConstructorAndGetters
+[       OK ] TrapezoidTest.ConstructorAndGetters (0 ms)
+[----------] 1 test from TrapezoidTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TrapezoidTest.ConstructorAndGetters" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"TrapezoidTest.ConstructorAndGetters" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/40 Testing: TrapezoidTest.Area
+25/40 Test: TrapezoidTest.Area
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=TrapezoidTest.Area" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"TrapezoidTest.Area" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TrapezoidTest.Area
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TrapezoidTest
+[ RUN      ] TrapezoidTest.Area
+[       OK ] TrapezoidTest.Area (0 ms)
+[----------] 1 test from TrapezoidTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TrapezoidTest.Area" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"TrapezoidTest.Area" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/40 Testing: TrapezoidTest.Center
+26/40 Test: TrapezoidTest.Center
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=TrapezoidTest.Center" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"TrapezoidTest.Center" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TrapezoidTest.Center
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TrapezoidTest
+[ RUN      ] TrapezoidTest.Center
+[       OK ] TrapezoidTest.Center (0 ms)
+[----------] 1 test from TrapezoidTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TrapezoidTest.Center" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"TrapezoidTest.Center" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/40 Testing: TrapezoidTest.CopyConstructor
+27/40 Test: TrapezoidTest.CopyConstructor
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=TrapezoidTest.CopyConstructor" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"TrapezoidTest.CopyConstructor" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TrapezoidTest.CopyConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TrapezoidTest
+[ RUN      ] TrapezoidTest.CopyConstructor
+[       OK ] TrapezoidTest.CopyConstructor (0 ms)
+[----------] 1 test from TrapezoidTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TrapezoidTest.CopyConstructor" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"TrapezoidTest.CopyConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/40 Testing: TrapezoidTest.MoveConstructor
+28/40 Test: TrapezoidTest.MoveConstructor
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=TrapezoidTest.MoveConstructor" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"TrapezoidTest.MoveConstructor" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TrapezoidTest.MoveConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TrapezoidTest
+[ RUN      ] TrapezoidTest.MoveConstructor
+[       OK ] TrapezoidTest.MoveConstructor (0 ms)
+[----------] 1 test from TrapezoidTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TrapezoidTest.MoveConstructor" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"TrapezoidTest.MoveConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/40 Testing: TrapezoidTest.OperatorDouble
+29/40 Test: TrapezoidTest.OperatorDouble
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=TrapezoidTest.OperatorDouble" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"TrapezoidTest.OperatorDouble" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TrapezoidTest.OperatorDouble
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TrapezoidTest
+[ RUN      ] TrapezoidTest.OperatorDouble
+[       OK ] TrapezoidTest.OperatorDouble (0 ms)
+[----------] 1 test from TrapezoidTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TrapezoidTest.OperatorDouble" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"TrapezoidTest.OperatorDouble" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/40 Testing: TrapezoidTest.Clone
+30/40 Test: TrapezoidTest.Clone
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=TrapezoidTest.Clone" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"TrapezoidTest.Clone" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TrapezoidTest.Clone
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TrapezoidTest
+[ RUN      ] TrapezoidTest.Clone
+[       OK ] TrapezoidTest.Clone (0 ms)
+[----------] 1 test from TrapezoidTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TrapezoidTest.Clone" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"TrapezoidTest.Clone" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/40 Testing: TrapezoidTest.IntegerCoordinates
+31/40 Test: TrapezoidTest.IntegerCoordinates
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=TrapezoidTest.IntegerCoordinates" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"TrapezoidTest.IntegerCoordinates" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TrapezoidTest.IntegerCoordinates
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TrapezoidTest
+[ RUN      ] TrapezoidTest.IntegerCoordinates
+[       OK ] TrapezoidTest.IntegerCoordinates (0 ms)
+[----------] 1 test from TrapezoidTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TrapezoidTest.IntegerCoordinates" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"TrapezoidTest.IntegerCoordinates" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/40 Testing: RectangleTest.ConstructorAndGetters
+32/40 Test: RectangleTest.ConstructorAndGetters
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=RectangleTest.ConstructorAndGetters" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"RectangleTest.ConstructorAndGetters" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RectangleTest.ConstructorAndGetters
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RectangleTest
+[ RUN      ] RectangleTest.ConstructorAndGetters
+[       OK ] RectangleTest.ConstructorAndGetters (0 ms)
+[----------] 1 test from RectangleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RectangleTest.ConstructorAndGetters" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"RectangleTest.ConstructorAndGetters" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/40 Testing: RectangleTest.Area
+33/40 Test: RectangleTest.Area
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=RectangleTest.Area" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"RectangleTest.Area" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RectangleTest.Area
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RectangleTest
+[ RUN      ] RectangleTest.Area
+[       OK ] RectangleTest.Area (0 ms)
+[----------] 1 test from RectangleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RectangleTest.Area" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"RectangleTest.Area" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/40 Testing: RectangleTest.Center
+34/40 Test: RectangleTest.Center
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=RectangleTest.Center" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"RectangleTest.Center" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RectangleTest.Center
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RectangleTest
+[ RUN      ] RectangleTest.Center
+[       OK ] RectangleTest.Center (0 ms)
+[----------] 1 test from RectangleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RectangleTest.Center" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"RectangleTest.Center" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/40 Testing: RectangleTest.CopyConstructor
+35/40 Test: RectangleTest.CopyConstructor
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=RectangleTest.CopyConstructor" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"RectangleTest.CopyConstructor" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RectangleTest.CopyConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RectangleTest
+[ RUN      ] RectangleTest.CopyConstructor
+[       OK ] RectangleTest.CopyConstructor (0 ms)
+[----------] 1 test from RectangleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RectangleTest.CopyConstructor" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"RectangleTest.CopyConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/40 Testing: RectangleTest.MoveConstructor
+36/40 Test: RectangleTest.MoveConstructor
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=RectangleTest.MoveConstructor" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"RectangleTest.MoveConstructor" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RectangleTest.MoveConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RectangleTest
+[ RUN      ] RectangleTest.MoveConstructor
+[       OK ] RectangleTest.MoveConstructor (0 ms)
+[----------] 1 test from RectangleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RectangleTest.MoveConstructor" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"RectangleTest.MoveConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/40 Testing: RectangleTest.OperatorDouble
+37/40 Test: RectangleTest.OperatorDouble
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=RectangleTest.OperatorDouble" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"RectangleTest.OperatorDouble" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RectangleTest.OperatorDouble
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RectangleTest
+[ RUN      ] RectangleTest.OperatorDouble
+[       OK ] RectangleTest.OperatorDouble (0 ms)
+[----------] 1 test from RectangleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RectangleTest.OperatorDouble" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"RectangleTest.OperatorDouble" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/40 Testing: RectangleTest.Clone
+38/40 Test: RectangleTest.Clone
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=RectangleTest.Clone" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"RectangleTest.Clone" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RectangleTest.Clone
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RectangleTest
+[ RUN      ] RectangleTest.Clone
+[       OK ] RectangleTest.Clone (0 ms)
+[----------] 1 test from RectangleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RectangleTest.Clone" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"RectangleTest.Clone" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/40 Testing: RectangleTest.IntegerCoordinates
+39/40 Test: RectangleTest.IntegerCoordinates
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=RectangleTest.IntegerCoordinates" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"RectangleTest.IntegerCoordinates" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RectangleTest.IntegerCoordinates
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RectangleTest
+[ RUN      ] RectangleTest.IntegerCoordinates
+[       OK ] RectangleTest.IntegerCoordinates (0 ms)
+[----------] 1 test from RectangleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RectangleTest.IntegerCoordinates" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"RectangleTest.IntegerCoordinates" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/40 Testing: RectangleTest.InvalidRectangle
+40/40 Test: RectangleTest.InvalidRectangle
+Command: "D:/OOP_lab_4/OOP_lab3/build/lab4_tests.exe" "--gtest_filter=RectangleTest.InvalidRectangle" "--gtest_also_run_disabled_tests"
+Directory: D:/OOP_lab_4/OOP_lab3/build
+"RectangleTest.InvalidRectangle" start time: Nov 07 19:11 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:/OOP_lab_4/OOP_lab3/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RectangleTest.InvalidRectangle
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RectangleTest
+[ RUN      ] RectangleTest.InvalidRectangle
+[       OK ] RectangleTest.InvalidRectangle (0 ms)
+[----------] 1 test from RectangleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RectangleTest.InvalidRectangle" end time: Nov 07 19:11 RTZ 2 (çèìà)
+"RectangleTest.InvalidRectangle" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 07 19:11 RTZ 2 (çèìà)
